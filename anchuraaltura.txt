@@ -1,0 +1,23 @@
+C:\Users\fmmer\Desktop\Facu\Laboratorio II\TPLABOII\Gameplay.h|18|error: 'sf::FloatRect Gameplay::getBound() const' marked 'override', but does not override|
+
+
+    sf::FloatRect getBound() const;
+    void draw(sf::RenderTarget& target, sf::RenderStates states) const;
+
+void Panellateral::draw(sf::RenderTarget& target, sf::RenderStates states) const
+{
+target.draw(_spritepanellateral, states);
+}
+
+sf::FloatRect  Panellateral::getBound() const{
+
+        return _spritepanellateral.getGlobalBounds();
+
+        }
+
+
+483 anchura
+437 altura
+
+Y:15
+x:12
