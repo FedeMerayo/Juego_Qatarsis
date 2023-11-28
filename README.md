@@ -1,9 +1,13 @@
 # Qatarsis-Juego
 
 Universidad Tecnológica Nacional
+
 Proyecto Final de Materia Laboratorio II -  Juego Qatarsis
+
 Desarrollado en C++ con libreria grafica SFML
+
 Trabajo Grupal - 2 Integrantes
+
 Programacion Orientada a Objetos 
 
 La idea principal del juego ronda sobre el frenesí de las figuritas del mundial 2022. El personaje principal debe recorrer las casas del barrio cumpliendo objetivos para completar las figuritas de la seleccion Argentina que le faltan. Consta de una historia con dialogos que va manteniendo con su madre y sus vecinos. Tiene un ranking que guarda los valores en disco.
